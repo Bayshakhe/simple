@@ -5,3 +5,5 @@ hello world!
 and this is last..
 My family is heaven...
 branch and margin..
+
+logo alignment centered.
